@@ -225,7 +225,7 @@ html {
     font-size: 12px;
     /*line-height: 1.5;*/
     color: #000;
-    background: #ddd;
+    background: white;
     -moz-box-sizing: border-box;
     box-sizing: border-box
 }
